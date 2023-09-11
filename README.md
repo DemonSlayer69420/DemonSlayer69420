@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DemonSlayer69420
-- 👀 I’m interested in making games
-- 🌱 I’m currently learning python and Java Script
-- 💞️ I’m looking to collaborate on Python
+-  Hi, I’m @DemonSlayer69420
+-  I’m interested in making games
+-  I’m currently learning python and Java Script
+-  I’m looking to collaborate on Python
   
 
 <!---
